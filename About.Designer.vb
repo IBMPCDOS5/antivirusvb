@@ -31,16 +31,16 @@ Partial Class About
         'aboutlbl
         '
         Me.aboutlbl.AutoSize = True
-        Me.aboutlbl.Location = New System.Drawing.Point(9, 9)
+        Me.aboutlbl.Location = New System.Drawing.Point(4, 9)
         Me.aboutlbl.Name = "aboutlbl"
-        Me.aboutlbl.Size = New System.Drawing.Size(269, 91)
+        Me.aboutlbl.Size = New System.Drawing.Size(285, 91)
         Me.aboutlbl.TabIndex = 0
         Me.aboutlbl.Text = resources.GetString("aboutlbl.Text")
         '
         'Label1
         '
         Me.Label1.AutoSize = True
-        Me.Label1.Location = New System.Drawing.Point(9, 118)
+        Me.Label1.Location = New System.Drawing.Point(12, 137)
         Me.Label1.Name = "Label1"
         Me.Label1.Size = New System.Drawing.Size(269, 13)
         Me.Label1.TabIndex = 1
@@ -48,7 +48,7 @@ Partial Class About
         '
         'okbtn
         '
-        Me.okbtn.Location = New System.Drawing.Point(102, 164)
+        Me.okbtn.Location = New System.Drawing.Point(102, 213)
         Me.okbtn.Name = "okbtn"
         Me.okbtn.Size = New System.Drawing.Size(75, 23)
         Me.okbtn.TabIndex = 2

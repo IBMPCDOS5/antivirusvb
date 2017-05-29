@@ -120,10 +120,10 @@
   <data name="aboutlbl.Text" xml:space="preserve">
     <value>AntivirusVB is a proof-of-concept antivirus that shows
 how powerful Visual Basic can really be. Currently there
-is not much to see, rather a tacky UI. AntivirusVB goes
-through a list of MD5 and SHA hashes that are known
-to be malicious. AntivirusVB is open-source and has a 
-section on GitHub, so feel free to edit the code and add
-new features.</value>
+is no scanning capability, but does feature a Task
+Manager. AntivirusVB goes through a list of MD5 and SHA 
+hashes that are known to be malicious. AntivirusVB is 
+open-source and has a repo on GitHub, so feel free to edit 
+the code to your liking.</value>
   </data>
 </root>

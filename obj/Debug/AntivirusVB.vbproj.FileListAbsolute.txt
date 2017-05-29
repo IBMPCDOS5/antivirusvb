@@ -10,3 +10,4 @@ c:\users\richie\documents\visual studio 2017\Projects\AntivirusVB\AntivirusVB\bi
 c:\users\richie\documents\visual studio 2017\Projects\AntivirusVB\AntivirusVB\obj\Debug\AntivirusVB.exe
 c:\users\richie\documents\visual studio 2017\Projects\AntivirusVB\AntivirusVB\obj\Debug\AntivirusVB.xml
 c:\users\richie\documents\visual studio 2017\Projects\AntivirusVB\AntivirusVB\obj\Debug\AntivirusVB.pdb
+c:\users\richie\documents\visual studio 2017\Projects\AntivirusVB\AntivirusVB\obj\Debug\AntivirusVB.taskmgr.resources
