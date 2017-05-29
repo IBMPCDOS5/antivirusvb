@@ -1,0 +1,12 @@
+c:\users\richie\documents\visual studio 2017\Projects\AntivirusVB\AntivirusVB\obj\Debug\AntivirusVB.vbprojResolveAssemblyReference.cache
+c:\users\richie\documents\visual studio 2017\Projects\AntivirusVB\AntivirusVB\obj\Debug\AntivirusVB.About.resources
+c:\users\richie\documents\visual studio 2017\Projects\AntivirusVB\AntivirusVB\obj\Debug\AntivirusVB.mainGUI.resources
+c:\users\richie\documents\visual studio 2017\Projects\AntivirusVB\AntivirusVB\obj\Debug\AntivirusVB.Resources.resources
+c:\users\richie\documents\visual studio 2017\Projects\AntivirusVB\AntivirusVB\obj\Debug\AntivirusVB.vbproj.GenerateResource.Cache
+c:\users\richie\documents\visual studio 2017\Projects\AntivirusVB\AntivirusVB\bin\Debug\AntivirusVB.exe.config
+c:\users\richie\documents\visual studio 2017\Projects\AntivirusVB\AntivirusVB\bin\Debug\AntivirusVB.exe
+c:\users\richie\documents\visual studio 2017\Projects\AntivirusVB\AntivirusVB\bin\Debug\AntivirusVB.pdb
+c:\users\richie\documents\visual studio 2017\Projects\AntivirusVB\AntivirusVB\bin\Debug\AntivirusVB.xml
+c:\users\richie\documents\visual studio 2017\Projects\AntivirusVB\AntivirusVB\obj\Debug\AntivirusVB.exe
+c:\users\richie\documents\visual studio 2017\Projects\AntivirusVB\AntivirusVB\obj\Debug\AntivirusVB.xml
+c:\users\richie\documents\visual studio 2017\Projects\AntivirusVB\AntivirusVB\obj\Debug\AntivirusVB.pdb
